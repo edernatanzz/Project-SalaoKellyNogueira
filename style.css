@@ -58,6 +58,7 @@ body{
     font-family: var(--body-font);
     overflow-x: hidden;
 }
+
 ul{
     list-style: none;
 }
@@ -66,7 +67,6 @@ a{
 }
 
 
-    
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -89,6 +89,7 @@ a{
 }
 .section__title{
     margin: 0 auto;
+    padding: auto;
     text-align: center;
 }
 .section__title h1{
@@ -476,7 +477,7 @@ a{
     padding: 2rem;
 }
 .testimonials__card{
-    width: 420px;
+    width: 320px;
     margin-top: var(--mb-3);
     grid-template-columns: 1fr;
 }
@@ -507,7 +508,11 @@ a{
     z-index: var(--Z-fixed);
 }
 .testimonials__item:hover .testimonials__img img{
-    transform: translateX(300px) rotate(360deg);
+    transform: translateX(200px) rotate(360deg);
+    -webkit-transform: translateX(200px) rotate(360deg);
+    -moz-transform: translateX(200px) rotate(360deg);
+    -ms-transform: translateX(200px) rotate(360deg);
+    -o-transform: translateX(200px) rotate(360deg);
 }
 .testimonials__box{
     position: relative;
