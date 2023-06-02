@@ -5,11 +5,12 @@
     --header-height: 6.25rem;
 
     /*---------------COLLORS -------------------*/
-    --main-color: #cf5858;
+    --main-color: #9a2e2e;
     --first-color: #020202;
     --second-color: #dfd6a7;
     --white-color: #ffffff;
     --black-color: #151515;
+    
 
     
 
@@ -206,7 +207,7 @@ a{
         padding: 15px 0;
     }
     .show-menu{
-        width: 60%;
+        width: 40%;
     }
 }
 .nav__link{
