@@ -293,6 +293,7 @@ a{
     border-radius: 30px;
     padding: 1rem;
 }
+
 .about__img img{
     width: 100%;
     border-radius: 30px;
@@ -666,9 +667,6 @@ a{
         top: -25%;
     }
 }
-@media screen and (max-width:768){
-.footer{
-    width: 100%;
-    flex-direction: column;
-}
-}
+
+
+
