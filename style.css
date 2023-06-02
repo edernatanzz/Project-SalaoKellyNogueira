@@ -676,7 +676,9 @@ a{
 }
 @media screen and (max-width:768px){
     .footer__list{
+        display: flex;
         width: 100%;
+justify-content: space-around;
         flex-direction: columb;
     }
 
