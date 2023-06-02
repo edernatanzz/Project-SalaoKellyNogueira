@@ -5,11 +5,13 @@
     --header-height: 6.25rem;
 
     /*---------------COLLORS -------------------*/
-    --main-color: #f7e6df;
-    --first-color: #75492b;
+    --main-color: #cf5858;
+    --first-color: #020202;
     --second-color: #dfd6a7;
     --white-color: #ffffff;
     --black-color: #151515;
+
+    
 
     /*---------------FONT  AND TYPOGRAPHY-------------------*/
     --font-cursive: 'Great Vibes', cursive;
@@ -658,3 +660,6 @@ a{
         top: -25%;
     }
 }
+
+
+
