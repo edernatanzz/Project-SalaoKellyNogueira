@@ -666,6 +666,9 @@ a{
         top: -25%;
     }
 }
-
-
-
+@media screen and (max-width:768){
+.footer{
+    width: 100%;
+    flex-direction: column;
+}
+}
