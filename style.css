@@ -559,6 +559,7 @@ justify-content: space-around;
 .footer__data-social .social__icon{
     color: var(--first-color);
     font-size: var(--h2-font-size);
+    
 }
 .footer__data-social .social__icon:hover{
     border-bottom: 1px solid var(--first-color);
