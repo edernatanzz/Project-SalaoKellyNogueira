@@ -179,7 +179,7 @@ a{
 }
 .navbar{
     justify-content: space-between;
-    padding: 20px;
+    padding: 10px;
 }
 .nav__toggle{
     font-size: var(--h1-font-size);
